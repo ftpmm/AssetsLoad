@@ -1,0 +1,63 @@
+ManifestFileVersion: 0
+CRC: 201884710
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: m_004_000.bytes
+      Dependencies:
+        Dependency_0: shareshader.bytes
+    Info_1:
+      Name: m_001_000.bytes
+      Dependencies:
+        Dependency_0: shareshader.bytes
+    Info_2:
+      Name: m_009_000.bytes
+      Dependencies:
+        Dependency_0: shareshader.bytes
+    Info_3:
+      Name: m_012_000.bytes
+      Dependencies:
+        Dependency_0: shareshader.bytes
+    Info_4:
+      Name: m_000_012.bytes
+      Dependencies:
+        Dependency_0: shareshader.bytes
+    Info_5:
+      Name: m_000_003.bytes
+      Dependencies:
+        Dependency_0: shareshader.bytes
+    Info_6:
+      Name: m_006_000.bytes
+      Dependencies:
+        Dependency_0: shareshader.bytes
+    Info_7:
+      Name: m_000_000.bytes
+      Dependencies:
+        Dependency_0: shareshader.bytes
+    Info_8:
+      Name: m_002_000.bytes
+      Dependencies:
+        Dependency_0: shareshader.bytes
+    Info_9:
+      Name: m_000_001.bytes
+      Dependencies:
+        Dependency_0: shareshader.bytes
+    Info_10:
+      Name: m_013_000.bytes
+      Dependencies:
+        Dependency_0: shareshader.bytes
+    Info_11:
+      Name: m_003_000.bytes
+      Dependencies:
+        Dependency_0: shareshader.bytes
+    Info_12:
+      Name: m_011_000.bytes
+      Dependencies:
+        Dependency_0: shareshader.bytes
+    Info_13:
+      Name: m_008_000.bytes
+      Dependencies:
+        Dependency_0: shareshader.bytes
+    Info_14:
+      Name: shareshader.bytes
+      Dependencies: {}

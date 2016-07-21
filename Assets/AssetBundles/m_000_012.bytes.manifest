@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 635810647
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b1b87a826e1b8ff178cbec00dbe064e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ab6179aafb193a9ee77aa4c465740709
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Pref/m_000_012.prefab
+Dependencies:
+- Assets/AssetBundles/shareshader.bytes
